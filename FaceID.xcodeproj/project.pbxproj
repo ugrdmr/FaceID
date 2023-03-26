@@ -55,9 +55,9 @@
 			children = (
 				66141E4629D0C2BA00BF699F /* FaceIDApp.swift */,
 				66141E4829D0C2BA00BF699F /* ContentView.swift */,
+				66141E5429D0C36C00BF699F /* FaceIDViewModel.swift */,
 				66141E4A29D0C2BC00BF699F /* Assets.xcassets */,
 				66141E4C29D0C2BC00BF699F /* Preview Content */,
-				66141E5429D0C36C00BF699F /* FaceIDViewModel.swift */,
 			);
 			path = FaceID;
 			sourceTree = "<group>";
