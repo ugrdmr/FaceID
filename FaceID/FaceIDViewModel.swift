@@ -6,3 +6,7 @@
 //
 
 import Foundation
+
+enum Planet {
+    case mercury, venus
+}
