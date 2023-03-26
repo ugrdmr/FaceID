@@ -8,5 +8,5 @@
 import Foundation
 
 enum Planet {
-    case mercury, venus
+    case mercury, venus, earth, mars
 }
